@@ -73,11 +73,11 @@ __This text__ is bold
 '''
 '''Java
 
-import  java.lang.String; 
-
-public class MyClass {
-    public stativ void main(String[] argv) {
-
+public class MyClass 
+{
+    public static void main(String[] args) 
+    {
+        System.out.println("Hello World!"); 
     }
 }
 
