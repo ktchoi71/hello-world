@@ -60,7 +60,7 @@ __This text__ is bold
 | Item 1 | Item 2 | Item 2 |
 
 <!-- Program Language -->
-'''C
+'''
 
     #include <stdio.h>
     #include <stdlib>
@@ -71,7 +71,9 @@ __This text__ is bold
     }
 
 '''
-'''Java
+
+
+'''
 
 public class MyClass 
 {
@@ -83,7 +85,7 @@ public class MyClass
 
 '''
 
-...JavaScript
+...
 
 function add(num1, num2)
 {
