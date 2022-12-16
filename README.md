@@ -60,7 +60,7 @@ __This text__ is bold
 | Item 1 | Item 2 | Item 2 |
 
 <!-- Program Language -->
-'''
+```
 
     #include <stdio.h>
     #include <stdlib>
@@ -70,10 +70,10 @@ __This text__ is bold
         printfln("Hello World"); 
     }
 
-'''
+```
 
 
-'''
+```
 
 public class MyClass 
 {
@@ -83,16 +83,16 @@ public class MyClass
     }
 }
 
-'''
+```
 
-...
+```
 
 function add(num1, num2)
 {
     return num1+num2; 
 }
 
-'''
+```
 
 <!-- Task List -->
 
