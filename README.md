@@ -49,7 +49,7 @@ __This text__ is bold
 > This is block quote
 
 <!-- code block -->
-'<p>This is inline code block</p>'
+`<p>This is inline code block</p>`
 
 <!-- Github markdown flavor -->
 
